@@ -1,0 +1,23 @@
+{
+  "name": "serverless-slack-app",
+  "description": "A Call For Help Ripples Through The Ether.",
+  "version": "1.0.0",
+  "author": "Levi Strope",
+  "license": "Apache 2.0",
+  "keywords": [
+    "slack",
+    "app",
+    "bot",
+    "aws",
+    "lambda",
+    "dynamo",
+    "template",
+    "serverless"
+  ],
+  "dependencies": {
+    "axios": "^0.18.0",
+    "delay": "^2.0.0",
+    "nexmo": "^2.2.0",
+    "serverless-slack": "^1.0.25"
+  }
+}
